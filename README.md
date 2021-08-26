@@ -1,0 +1,2 @@
+# mnivIKT
+jupyter
